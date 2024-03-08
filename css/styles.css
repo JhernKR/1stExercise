@@ -7,22 +7,33 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	color: #fffefc;
+	background-color: #0D0D0D;
+}
+
+.title1 {
+	font-family: 'Impact';
+	color: #e9ffdf;
+}
+
+.title2 {
+	font-family: 'Segoe UI';
+	text-align: center;
+	color: #e9ffdf;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #2B401D;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #6E734D;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #658C49;
 }
 
 /* Styles for lists in the document */
