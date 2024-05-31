@@ -50,7 +50,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #4CAF50;
 }
 
 .biography-details li, .skill-list li {
